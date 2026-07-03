@@ -1,0 +1,13 @@
+# İNFXZ PANEL
+
+Yasal Ve Egitim Olarak Ogretilen Ve Sorumlulugin Bize Ait Olmadi Bir Mernis Paneli
+
+Bu Tool Genellikle Termux Veya Pydroid Linux Gibi İsletimlerde Kullanilir 
+
+Yapimcilari
+
+Emxn
+
+Kxxn
+
+"Kod satırları sadece komut değil, düşüncenin yansımasıdır."
